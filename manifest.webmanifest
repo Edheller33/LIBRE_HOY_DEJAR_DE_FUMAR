@@ -1,0 +1,35 @@
+{
+  "name": "LibreHoy",
+  "short_name": "LibreHoy",
+  "description": "Tu compañero para dejar de fumar",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone"
+  ],
+  "orientation": "portrait",
+  "lang": "es-MX",
+  "dir": "ltr",
+  "background_color": "#0A0E1A",
+  "theme_color": "#00F5C4",
+  "categories": [
+    "health",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20512%20512%22%3E%3Crect%20width=%22512%22%20height=%22512%22%20rx=%2296%22%20fill=%22%230A0E1A%22/%3E%3Cg%20transform=%22translate(256%20256)%20scale(6.2)%20translate(-32%20-32)%22%3E%3Ccircle%20cx=%2232%22%20cy=%2232%22%20r=%2226%22%20fill=%22none%22%20stroke=%22%2300F5C4%22%20stroke-width=%223%22%20stroke-dasharray=%22140%2024%22%20stroke-linecap=%22round%22%20transform=%22rotate(-60%2032%2032)%22/%3E%3Cpath%20d=%22M32%2046C20%2040%2020%2024%2032%2016C44%2024%2044%2040%2032%2046Z%22%20fill=%22%2300F5C4%22/%3E%3Cpath%20d=%22M32%2044V26%22%20stroke=%22%230A0E1A%22%20stroke-width=%222%22%20stroke-linecap=%22round%22%20fill=%22none%22/%3E%3C/g%3E%3C/svg%3E",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20512%20512%22%3E%3Crect%20width=%22512%22%20height=%22512%22%20fill=%22%230A0E1A%22/%3E%3Cg%20transform=%22translate(256%20256)%20scale(4.8)%20translate(-32%20-32)%22%3E%3Ccircle%20cx=%2232%22%20cy=%2232%22%20r=%2226%22%20fill=%22none%22%20stroke=%22%2300F5C4%22%20stroke-width=%223%22%20stroke-dasharray=%22140%2024%22%20stroke-linecap=%22round%22%20transform=%22rotate(-60%2032%2032)%22/%3E%3Cpath%20d=%22M32%2046C20%2040%2020%2024%2032%2016C44%2024%2044%2040%2032%2046Z%22%20fill=%22%2300F5C4%22/%3E%3Cpath%20d=%22M32%2044V26%22%20stroke=%22%230A0E1A%22%20stroke-width=%222%22%20stroke-linecap=%22round%22%20fill=%22none%22/%3E%3C/g%3E%3C/svg%3E",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
